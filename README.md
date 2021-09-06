@@ -20,10 +20,11 @@ Since all of the shortcuts in Tmux are different in Tmux.
 ```tmux source ~/.tmux.conf```
 
 # basic features
-- copy: ```ctrl+shift+c```
+- copy: ```ctrl+shift+c``` 
+  - if you are in a remote server. get in mouse-mode off by ```ctrl-p``` and copy then get back to mouse-mode on by ```ctrl-o```
 - paste: ```ctrl+shift+v```
 - list all the windows in the session: ```ctrl+b+w```
-- mouse wheel enable
+- mouse wheel enabled
 - changed background color and border color 
 
 # Implemented
